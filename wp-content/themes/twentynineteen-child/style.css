@@ -1,0 +1,12 @@
+﻿/*
+Theme Name: Theme de Squeezie
+Template: twentynineteen
+Author: Fakum Baccam
+Author URI: https://monsite.com
+Description: Mon premier thème !
+Requires at least: WordPress 5.0
+Version: 0.2
+*/
+/*Cacher la thumbnail*/
+.attachment-post-thumbnail { display: none; }
+.byline { display: none; }
